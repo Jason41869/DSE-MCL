@@ -1,3 +1,4 @@
-# SSR-MCL
-SSR-MCL: Subspace-aware Semantic Reasoning via Multi-view
-Contrastive Learning for Knowledge Graph Completion
+# DSE-MCL
+DSE-MCL: Dual-Stream 
+Semantic Encoding with Multi-View Contrastive Learning for Knowledge Graph 
+Completion
