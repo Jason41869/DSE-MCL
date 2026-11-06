@@ -3,13 +3,16 @@ DSE-MCL: Dual-Stream
 Semantic Encoding with Multi-View Contrastive Learning for Knowledge Graph 
 Completion
 
-DOI：10.1016/j.neucom.2026.135591
-
 python = 3.8
 
 dgl=1.1.2
 
+python run.py to strat the project
+
+DOI：10.1016/j.neucom.2026.135591
+
 please cite:
+
 @article{JIE2026135591,
 title = {DSE-MCL: Dual-stream semantic encoding via multi-view contrastive learning for knowledge graph completion},
 journal = {Neurocomputing},
