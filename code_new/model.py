@@ -346,7 +346,7 @@ def compute_corr(x1, x2):
     return corr
 
 
-# ---- MoCo InfoNCE ----
+# ----InfoNCE ----
 def infonce(q, k, temp):
     # 正样本
     l_pos = (q * k).sum(dim=-1, keepdim=True)  # [N, 1]
